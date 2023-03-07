@@ -1,0 +1,7 @@
+1. Không có
+2. Không có trường hợp nào, tuy nhiên với những bài toán khó thì sử dụng đệ quy sẽ dễ hơn
+3. Phụ thuộc vào độ phức tạp của bài toán
+4. Cần để ý đến điều kiện dừng
+5. 0 -1 6
+6. Không có điều kiện dừng
+7. Hàm trả về kết quả của 2 số Thay + bằng * ta được a^b.
